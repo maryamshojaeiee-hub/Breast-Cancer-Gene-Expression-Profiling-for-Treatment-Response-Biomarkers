@@ -2,10 +2,10 @@ Can gene expression predict how breast cancer patients respond to chemotherapy? 
 
 Homework for the course "Statistical and Computational Methods for Integrated Analysis", Master of Statistics and Data Science (Bioinformatics), Hasselt University, 2025–2026.
 
-[Read the full report →](https://maryamshojaeiee-hub.github.io/Breast-Cancer-Gene-Expression-Profiling-for-Treatment-Response-Biomarkers/report.html) · [View the code →](codes/01_differential_expression.Rmd)
+[Read the full report →](https://maryamshojaeiee-hub.github.io/Breast-Cancer-Gene-Expression-Profiling-for-Treatment-Response-Biomarkers/report.html) · [View the code →](https://maryamshojaeiee-hub.github.io/Breast-Cancer-Gene-Expression-Profiling-for-Treatment-Response-Biomarkers/codes.qmd)
 
-About the Project
 
+## About the Project
 The dataset contains 22,283 genes measured in breast tumour samples, of which 301 had a known treatment response. The analysis covered unsupervised exploration with spectral maps, gene filtering, differential expression with limma (including a model adjusted for ER status and tumour grade), classification with nested loop cross-validation (DLDA, random forest, bagging, PAM and SVM), and pathway analysis with MLP.
 
 Main finding: ER status was the dominant source of variation and could be predicted with high accuracy from only about 10 genes. Treatment response showed a much weaker signal, and part of it was explained by ER status and tumour grade; classifiers for response reached an error rate of about 30%.
