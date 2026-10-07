@@ -2,7 +2,7 @@ Can gene expression predict how breast cancer patients respond to chemotherapy? 
 
 Homework for the course "Statistical and Computational Methods for Integrated Analysis", Master of Statistics and Data Science (Bioinformatics), Hasselt University, 2025–2026.
 
-[Read the full report →](https://github.com/maryamshojaeiee-hub/Breast-Cancer-Gene-Expression-Profiling-for-Treatment-Response-Biomarkers/blob/main/report.html) · [View the code →](codes/01_differential_expression.Rmd)
+[Read the full report →](https://github.com/maryamshojaeiee-hub/Breast-Cancer-Gene-Expression-Profiling-for-Treatment-Response-Biomarkers/report.html) · [View the code →](codes/01_differential_expression.Rmd)
 
 About the Project
 
